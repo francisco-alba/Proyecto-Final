@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hluna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hluna\\.nuget\\packages"
+    ]
+  }
+}
