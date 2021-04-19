@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Proyecto-Final/1.0.0": {
+      "CLI/1.0.0": {
         "runtime": {
-          "Proyecto-Final.dll": {}
+          "CLI.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Proyecto-Final/1.0.0": {
+    "CLI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

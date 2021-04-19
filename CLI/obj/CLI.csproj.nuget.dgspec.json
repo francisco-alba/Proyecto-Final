@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hluna\\Proyecto-Final\\Proyecto-Final.csproj": {}
+    "C:\\Users\\hluna\\CLI\\CLI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hluna\\Proyecto-Final\\Proyecto-Final.csproj": {
+    "C:\\Users\\hluna\\CLI\\CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hluna\\Proyecto-Final\\Proyecto-Final.csproj",
-        "projectName": "Proyecto-Final",
-        "projectPath": "C:\\Users\\hluna\\Proyecto-Final\\Proyecto-Final.csproj",
+        "projectUniqueName": "C:\\Users\\hluna\\CLI\\CLI.csproj",
+        "projectName": "CLI",
+        "projectPath": "C:\\Users\\hluna\\CLI\\CLI.csproj",
         "packagesPath": "C:\\Users\\hluna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hluna\\Proyecto-Final\\obj\\",
+        "outputPath": "C:\\Users\\hluna\\CLI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hluna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

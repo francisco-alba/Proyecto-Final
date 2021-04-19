@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Proyecto_Final
+namespace CLI
 {
     class Program
     {
