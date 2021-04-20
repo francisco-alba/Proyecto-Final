@@ -1,4 +1,5 @@
 ﻿using System;
+using system.Data.SqlClient;
 
 namespace CLI
 {
@@ -6,7 +7,10 @@ namespace CLI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+         SqlConnection con = new SqlConnection("Data Source=unitec-db.database.windows.net;Initial Catalog=clases;User ID=loginAlumno;Password=Pa$$word;");
+         con.open();
+
+         Console.WriteLine("ok");
         }
     }
 }
